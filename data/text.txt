@@ -1,0 +1,4 @@
+pour les données on a importer 3 fichiers :
+GOTS_7.0__FR__signed.pdf
+CELEX_32011R1007_FR_TXT.pdf
+ISO-1833-1-2020.pdf
