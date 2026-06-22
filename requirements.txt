@@ -1,8 +1,0 @@
-streamlit
-qdrant-client
-groq
-sentence-transformers
-langchain
-langchain-community
-pypdf
-python-dotenv
